@@ -1,5 +1,4 @@
 # Neuronal-Attention-Circuit-NAC---Brain-Tumor-Classification
-# %% [markdown]
 """
 # 🧠 Neuronal Attention Circuit (NAC) - Brain Tumor Classification
 ## A Biologically Plausible, Continuous-Time Attention Mechanism
@@ -23,8 +22,6 @@
 7. [Results & Visualization](#results--visualization)
 8. [Discussion & Future Work](#discussion--future-work)
 """
-
-# %% [markdown]
 """
 ## Project Overview
 
@@ -43,6 +40,3 @@ Implement a novel Neuronal Attention Circuit (NAC) - a biologically plausible, c
 - **Total Images**: ~5,000
 - **Balanced**: 5,828 images after oversampling
 """
-# %% [markdown]
-"""
- 
