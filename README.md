@@ -15,7 +15,7 @@
 6. [Training Pipeline](#training-pipeline)
 7. [Results & Visualization](#results--visualization)
 8. [Discussion & Future Work](#discussion--future-work)
-"""
+
 ## Project Overview
 
 🎯 Objective
