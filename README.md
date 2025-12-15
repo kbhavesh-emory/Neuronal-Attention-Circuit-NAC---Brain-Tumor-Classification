@@ -1,4 +1,4 @@
-# 🧠 Neuronal Attention Circuit (NAC) - Brain Tumor Classification
+🧠 Neuronal Attention Circuit (NAC) - Brain Tumor Classification
 <div align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/Bio--Inspired-8A2BE2?style=for-the-badge" alt="Bio-Inspired">
