@@ -1,15 +1,11 @@
 # 🧠 Neuronal Attention Circuit (NAC) - Brain Tumor Classification
-## A Biologically Plausible, Continuous-Time Attention Mechanism
-
 <div align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/Bio--Inspired-8A2BE2?style=for-the-badge" alt="Bio-Inspired">
   <img src="https://img.shields.io/badge/Medical%20Imaging-00BFFF?style=for-the-badge" alt="Medical Imaging">
   <img src="https://img.shields.io/badge/Vision%20Transformer-FF6B6B?style=for-the-badge" alt="Vision Transformer">
 </div>
-
 ---
-
 ## 📋 Table of Contents
 1. [Project Overview](#project-overview)
 2. [Setup & Installation](#setup--installation)
@@ -19,7 +15,6 @@
 6. [Training Pipeline](#training-pipeline)
 7. [Results & Visualization](#results--visualization)
 8. [Discussion & Future Work](#discussion--future-work)
-"""
 """
 ## Project Overview
 
