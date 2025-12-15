@@ -1,5 +1,3 @@
-# Neuronal-Attention-Circuit-NAC---Brain-Tumor-Classification
-"""
 # 🧠 Neuronal Attention Circuit (NAC) - Brain Tumor Classification
 ## A Biologically Plausible, Continuous-Time Attention Mechanism
 
